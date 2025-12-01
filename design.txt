@@ -1,0 +1,3 @@
+Single Table Analysis first:
+    Load data -> One table at a time. 
+                Get datatypes, basic statistics for each column.
